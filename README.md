@@ -9,5 +9,9 @@ Run as administrator:
 To install after:
 
 Malwarebyes anti-exploit
+
 Veracrypt
+
 PIA
+
+
