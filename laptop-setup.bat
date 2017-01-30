@@ -4,12 +4,9 @@ choco install adobe-creative-cloud
 choco install google-chrome-x64
 choco install avirafreeantivirus
 choco install malwarebytes
-echo install malwarebytes anti exploit
 choco install virtualbox
 choco install vagrant
-choco install vmwarevsphereclient
 choco install spotify
-choco install evernote
 choco install dropbox
 choco install crashplan
 choco install ccleaner
@@ -23,7 +20,6 @@ choco install winscp
 choco install putty
 choco install git
 choco install 7zip
-choco install btsync
 choco install vuzeclient
 echo install pia
 choco install firefox
@@ -34,4 +30,9 @@ choco install origin
 choco install sumatrapdf
 choco install pdfcreator
 choco install keepass
+choco install python
+choco install intellijidea-community
+choco install qbittorrent
+choco install jdk8
+
 setx path "%path%;C:\Program Files (x86)\Git\bin\"
